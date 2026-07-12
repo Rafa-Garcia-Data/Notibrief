@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://www.linkedin.com/feed/#1783866319096",
+    "text": "🌱 La demanda profesional ambiental está cambiando. El Foro Económico Mundial reporta que el 86% de los empleadores espera que la Inteligencia Artificial y el procesamiento de información transformen sus negocios hacia 2030. Además, estima que el 39% de las habilidades núcleo del trabajo cambiarán en ese mismo periodo. Esto significa que los profesionales ambientales que sepan combinar criterio técnico con Python, IA, Big Data, Google Earth Engine, BigQuery y datos satelitales tendrán una ventaja cada vez mayor. Por eso preparé este artículo sobre el perfil de científico de datos ambientales: 👉 https://lnkd.in/ec4fZYyV También tendremos el Seminario gratuito: IA + Big Data Ambiental: 👉 https://lnkd.in/ezW_BBPk",
+    "images": [],
+    "captured_at": "2026-07-12T16:25:19.412147",
+    "summary": "🌱 La demanda profesional ambiental está cambiando. Esto significa que los profesionales ambientales que sepan combinar criterio técnico con Python, IA, Big Data, Google Earth Engine, BigQuery y datos satelitales tendrán una ventaja cada vez mayor. Por eso preparé este artículo sobre el perfil de científico de datos ambientales: 👉 https://lnkd.in/ec4fZYyV También tendremos el Seminario gratuito:"
+  },
+  {
+    "url": "https://www.linkedin.com/feed/#1783866362976",
+    "text": "Publicación en el feed Alejandro Aguirre de Carcer CEO @ Brains Real Estate | AI, Big Data, Valoraciónes Hace cuatro meses me di de baja de ChatGPT y me pasé a Claude por sus herramientas de negocio. Hoy OpenAI ha copiado la jugada entera. Nueva app que sustituye a Codex, el ChatGPT de siempre pasa a ser Classic y tres modelos nuevos: Sol, Terra y Luna. ChatGPT acaba de alcanzar a Claude en el uso para empresas. Lee el artículo completo aquí 👇 #InteligenciaArtificial #Claude #ChatGPT #IAparaEmpresas #Productividad #Proptech AI.RE IA en Real Estate España ChatGPT alcanza a Claude para el uso de Empresas Alejandro Aguirre de Carcer",
+    "images": [
+      {
+        "alt": "Ver perfil de Alejandro Aguirre de Carcer",
+        "src": "https://media.licdn.com/dms/image/v2/D4E03AQGyzr9kHEA68A/profile-displayphoto-scale_100_100/B4EZ88SjwHHsAc-/0/1783422929390?e=1785369600&v=beta&t=DY6IDxccwrCaD7ycCNc1NGcPN-s76M5HQGHXv5-QhtY"
+      },
+      {
+        "alt": "ChatGPT alcanza a Claude para el uso de Empresas",
+        "src": "https://media.licdn.com/dms/image/v2/D4E12AQHf2M2N16FCMA/article-cover_image-shrink_600_2000/B4EZ9Lh9M3HwAQ-/0/1783678624848?e=1785369600&v=beta&t=xjY5rWR33bEBtR1GZcewItEoChc1q7bij0BJjyGtlFc"
+      },
+      {
+        "alt": "",
+        "src": "https://media.licdn.com/dms/image/v2/D4E12AQFGo3VligqTgA/series-logo_image-shrink_100_100/series-logo_image-shrink_100_100/0/1693905082357?e=1785369600&v=beta&t=4OfED4uSRgmxSEvkIIiI8iRmv7YO3ucjmSGpH3iacBA"
+      }
+    ],
+    "captured_at": "2026-07-12T16:26:02.978620",
+    "summary": "Publicación en el feed Alejandro Aguirre de Carcer CEO @ Brains Real Estate | AI, Big Data, Valoraciónes Hace cuatro meses me di de baja de ChatGPT y me pasé a Claude por sus herramientas de negocio. ChatGPT acaba de alcanzar a Claude en el uso para empresas. Lee el artículo completo aquí 👇 #InteligenciaArtificial #Claude #ChatGPT #IAparaEmpresas #Productividad #Proptech AI."
+  },
+  {
+    "url": "https://www.linkedin.com/feed/#1783866404531",
+    "text": "En el sistema sobre el cual me encuentro trabajando actualmente se mueve mucho con datos que un usuario final va ingresando a lo largo de un flujo, por ejemplo su nombre. Antes, al llegar a la validación de identidad y un dato no coincidía con lo esperado, el sistema tiraba un error duro y borraba todo el snapshot que había recolectado hasta ahí (si, todo). Sonaba razonable: dato inconsistente, se descarta. Pero eso dejaba a la persona que tenía que revisar el caso (un humano al final del día), tomando una decisión sin ninguna información para decidir si el error era real o un falso positivo. Un ejemplo más bajado a tierra podría ser: apellido de soltera vs. casada. El error no era del sistema. Era una señal de que hacía falta una decisión humana. Y el sistema estaba tratando esa señal como si fuera corrupción de datos. Cambié el throw duro por persistir el estado ambiguo: un objeto con status \"pending\", los datos en conflicto, y una tarea creada para que alguien lo revise. El proceso sigue, no se cae. No todo error de validación de negocio debería ser un error de sistema. A veces la respuesta correcta no es fallar rápido, es guardar la evidencia completa y delegar la decisión a quien puede tomarla con contexto. ¿Cuántas veces un \"error\" en tu sistema era en realidad una decisión de negocio disfrazada de excepción?",
+    "images": [],
+    "captured_at": "2026-07-12T16:26:44.840665",
+    "summary": "Pero eso dejaba a la persona que tenía que revisar el caso (un humano al final del día), tomando una decisión sin ninguna información para decidir si el error era real o un falso positivo. El error no era del sistema. Era una señal de que hacía falta una decisión humana. Y el sistema estaba tratando esa señal como si fuera corrupción de datos."
+  },
+  {
+    "url": "https://www.linkedin.com/feed/#1783866459382",
+    "text": "Regresión Logística. Redes Neuronales. Support Vector Machines (SVM). K-Nearest Neighbors (KNN). Clustering basado en distancias. Sin una representación adecuada de las variables categóricas, estos modelos pueden producir resultados sesgados o perder capacidad predictiva. ¿𝗖𝗼́𝗺𝗼 𝗶𝗻𝗳𝗹𝘂𝘆𝗲 𝗲𝗻 𝗹𝗼𝘀 𝗿𝗲𝘀𝘂𝗹𝘁𝗮𝗱𝗼𝘀 𝗱𝗲𝗹 𝗺𝗼𝗱𝗲𝗹𝗼? Una buena codificación puede: Mejorar la capacidad predictiva. Reducir el sesgo introducido por los datos. Facilitar el aprendizaje del algoritmo. Aumentar la interpretabilidad del modelo. En otras palabras, un buen modelo comienza con una buena representación de los datos. ️ 𝗣𝗲𝗿𝗼 𝗰𝘂𝗶𝗱𝗮𝗱𝗼…One-Hot Encoding no siempre es la mejor opción. Cuando una variable posee cientos o miles de categorías (por ejemplo, ciudades, productos o códigos de clientes), esta técnica genera una gran cantidad de columnas, aumentando la dimensionalidad del conjunto de datos. Alguna alternativas que suelen emplearse son: Target Encoding, Frequency Encoding, Binary Encoding, Embeddings, etc. Elegir la técnica adecuada depende del problema, del algoritmo y de la naturaleza de los datos. 🗣️ ¿Qué otras técnicas de codificación utilizas cuando trabajas con variables categóricas?, los leo en los comentarios. #DataScience #MachineLearning #Statistics #DatosConGladys",
+    "images": [],
+    "captured_at": "2026-07-12T16:27:39.384765",
+    "summary": "Sin una representación adecuada de las variables categóricas, estos modelos pueden producir resultados sesgados o perder capacidad predictiva. Reducir el sesgo introducido por los datos. En otras palabras, un buen modelo comienza con una buena representación de los datos. ️ 𝗣𝗲𝗿𝗼 𝗰𝘂𝗶𝗱𝗮𝗱𝗼…One-Hot Encoding no siempre es la mejor opción."
+  }
+]

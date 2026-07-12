@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Notibrief",
+  "version": "4.0",
+  "description": "Envia publicaciones de LinkedIn a Notibrief",
+  "permissions": ["contextMenus", "scripting", "activeTab"],
+  "host_permissions": ["http://localhost:8787/*", "https://www.linkedin.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
