@@ -1,6 +1,12 @@
 # Notibrief
 
 Captura publicaciones de LinkedIn y genera resumenes extractivos con un clic. Sin scraping, sin baneos.
+No pierdas tu tiempo en leer publicaciones que no te gustan o no se adaptan a lo que buscas.
+
+**##Tecnologías**
+Python
+
+<img width="49" height="20" alt="image" src="https://github.com/user-attachments/assets/90679c5a-7a15-4511-bd9e-956c7dacfd2c" />
 
 ## Como funciona
 
