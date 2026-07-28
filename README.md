@@ -12,6 +12,7 @@ No pierdas tu tiempo en leer publicaciones que no te gustan o no se adaptan a lo
 <img width="51" height="20" alt="image" src="https://github.com/user-attachments/assets/7c5ee399-83e0-40e4-af2c-88de2ddfe52f" />
 <img width="74" height="20" alt="image" src="https://github.com/user-attachments/assets/71e22524-8798-444f-b309-f362bf0ba891" />
 <img width="124" height="20" alt="image" src="https://github.com/user-attachments/assets/d42896aa-94d3-4bc5-bdda-5cfee80b579f" />
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## Como funciona
 
@@ -105,8 +106,8 @@ Notibrief/
 | `/api/clear` | POST | Limpiar todos los posts |
 | `/api/shutdown` | POST | Apagar el servidor |
 
-##Resultados
--Disminuye tu tiempo haciendo scrolling en la red social, seleccionando para ver detenidamente las publicaciones que te interesen
+## Resultados
+-<ins>Disminuye</ins> tu tiempo haciendo scrolling en la red social, seleccionando para ver detenidamente las publicaciones que te interesen
 -Click derecho del ratón
 -Proyecto de mejora de una base previa dedicados a portales de noticias generales, ahora centrado en LinkedIn
 -Mejora la calidad de la información que recibes.
