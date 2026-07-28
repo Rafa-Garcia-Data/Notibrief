@@ -3,7 +3,7 @@
 Captura publicaciones de LinkedIn y genera resumenes extractivos con un clic. Sin scraping, sin baneos.
 No pierdas tu tiempo en leer publicaciones que no te gustan o no se adaptan a lo que buscas.
 
-##Tecnologías
+## Tecnologías
 
 <img width="112" height="20" alt="image" src="https://github.com/user-attachments/assets/cfbb9c2b-6e1b-484d-9b34-6fa5b85f287a" />
 <img width="112" height="20" alt="image" src="https://github.com/user-attachments/assets/1ad60109-8306-42be-859e-984bc0cda445" />
