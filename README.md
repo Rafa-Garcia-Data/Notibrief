@@ -5,13 +5,8 @@ No pierdas tu tiempo en leer publicaciones que no te gustan o no se adaptan a lo
 
 ## Tecnologías
 
-<img width="112" height="20" alt="image" src="https://github.com/user-attachments/assets/cfbb9c2b-6e1b-484d-9b34-6fa5b85f287a" />
 <img width="112" height="20" alt="image" src="https://github.com/user-attachments/assets/1ad60109-8306-42be-859e-984bc0cda445" />
-<img width="116" height="20" alt="image" src="https://github.com/user-attachments/assets/c470f327-ad22-407c-aff7-45cab8c290dc" />
-<img width="51" height="20" alt="image" src="https://github.com/user-attachments/assets/bf4645b0-167c-4a6b-8de2-f24ebf777db4" />
-<img width="51" height="20" alt="image" src="https://github.com/user-attachments/assets/7c5ee399-83e0-40e4-af2c-88de2ddfe52f" />
 <img width="74" height="20" alt="image" src="https://github.com/user-attachments/assets/71e22524-8798-444f-b309-f362bf0ba891" />
-<img width="124" height="20" alt="image" src="https://github.com/user-attachments/assets/d42896aa-94d3-4bc5-bdda-5cfee80b579f" />
 
 [![My Skills](https://skillicons.dev/icons?i=docker,python,fastapi,html&theme=light)](https://skillicons.dev)
 
