@@ -1,4 +1,4 @@
-# Notibrief
+# Notibrief :bookmark_tabs:
 
 Captura publicaciones de LinkedIn y genera resumenes extractivos con un clic. Sin scraping, sin baneos.
 No pierdas tu tiempo en leer publicaciones que no te gustan o no se adaptan a lo que buscas.
