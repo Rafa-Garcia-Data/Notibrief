@@ -5,8 +5,11 @@ No pierdas tu tiempo en leer publicaciones que no te gustan o no se adaptan a lo
 
 ## Tecnologías ⚡
 
-<img width="112" height="20" alt="image" src="https://github.com/user-attachments/assets/1ad60109-8306-42be-859e-984bc0cda445" />
-<img width="74" height="20" alt="image" src="https://github.com/user-attachments/assets/71e22524-8798-444f-b309-f362bf0ba891" />
+<img width="112" height="20" alt="image" src="https://github.com/user-attachments/assets/1ad60109-8306-42be-859e-984bc0cda445" /> <img width="74" height="20" alt="image" src="https://github.com/user-attachments/assets/71e22524-8798-444f-b309-f362bf0ba891" /> <img alt="Static Badge" src="https://img.shields.io/badge/streamlit-pink?style=plastic&logo=streamlit"> <img alt="Static Badge" src="https://img.shields.io/badge/.bat-app-red?style=plastic">
+
+
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=docker,python,fastapi,html&theme=light)](https://skillicons.dev)
 
