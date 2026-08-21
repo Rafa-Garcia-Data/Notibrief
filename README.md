@@ -3,14 +3,14 @@
 Captura publicaciones de LinkedIn y genera resumenes extractivos con un clic. Sin scraping, sin baneos.
 No pierdas tu tiempo en leer publicaciones que no te gustan o no se adaptan a lo que buscas.
 
-## Tecnologías
+## Tecnologías ⚡
 
 <img width="112" height="20" alt="image" src="https://github.com/user-attachments/assets/1ad60109-8306-42be-859e-984bc0cda445" />
 <img width="74" height="20" alt="image" src="https://github.com/user-attachments/assets/71e22524-8798-444f-b309-f362bf0ba891" />
 
 [![My Skills](https://skillicons.dev/icons?i=docker,python,fastapi,html&theme=light)](https://skillicons.dev)
 
-## Como funciona
+## Como funciona 💡
 
 1. Instala la extension de Chrome en `extension/` en la carpetaraíz de la app. SOLO UNA VEZ este paso. 
 2. Haz click derecho en un post de LinkedIn ( justo donde haces click en "más" para desplegar la publicación) → **Enviar a Notibrief**
@@ -48,7 +48,7 @@ python server.py
 4. Selecciona la carpeta `extension/`
 5. Asegurate de que el servidor este corriendo en `localhost:8787`
 
-## Arquitectura
+## Arquitectura 🏗️
 
 ```
 LinkedIn (navegador)
@@ -70,7 +70,7 @@ Web UI (muestra posts con imagenes inline + resumenes)
 - **Sin dependencias pesadas**: resumen extractivo puro (TF-IDF), sin modelos de ML
 - **Cero baneos**: el servidor nunca toca LinkedIn
 
-## Estructura del proyecto
+## Estructura del proyecto 🔌
 
 ```
 Notibrief/
@@ -102,7 +102,7 @@ Notibrief/
 | `/api/clear` | POST | Limpiar todos los posts |
 | `/api/shutdown` | POST | Apagar el servidor |
 
-## Resultados
+## Resultados 🚦
 - <ins>Disminuye</ins> tu <ins>tiempo</ins> haciendo scrolling en la red social, seleccionando sólo las publicaciones que te interesen
 - <ins>Click</ins> derecho del ratón
 - Proyecto de mejora de una base previa dedicado a portales de noticias generales, ahora <ins>centrado en LinkedIn</ins>
